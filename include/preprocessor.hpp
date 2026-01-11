@@ -7,7 +7,7 @@
 #include <array>
 #include <string>
 
-// Klasa przechowujaca indeksy obliczanyhc wartosci
+// Klasa przechowujaca indeksy obliczanych wartosci
 class Indices
 {
 public:
